@@ -1,5 +1,6 @@
+import os
 
-filename = '../file/sample.txt'
+filename = '..' + os.sep + 'file' + os.sep + 'sample.txt'
 
 txt = open(filename)
 
