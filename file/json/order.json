@@ -1,0 +1,30 @@
+{
+    "error_code": 800,
+    "error_message": "No error message in list.",
+    "data": [
+        {
+            "id": 377,
+            "batchId": "SP21_really_Test_20200817153338",
+            "account": "really",
+            "season": "SP21",
+            "source": "ACCOUNT ORDER",
+            "latestReceiveTime": "2020/08/17 15:35:13",
+            "latestValidationTime": "2020/08/17 15:36:30",
+            "totalReceive": 350436,
+            "totalCancel": 0,
+            "validationStatus": "Done With PM"
+        },
+        {
+              "id": 388,
+              "batchId": "SP21_really_Test_20200817153339",
+              "account": "really",
+              "season": "SP21",
+              "source": "ACCOUNT ORDER",
+              "latestReceiveTime": "2020/08/17 15:35:13",
+              "latestValidationTime": "2020/08/17 15:36:30",
+              "totalReceive": 350436,
+              "totalCancel": 0,
+              "validationStatus": "Done With PM"
+          }
+    ]
+}
