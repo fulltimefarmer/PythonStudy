@@ -23,7 +23,7 @@ try:
         createDate = row[7]
 
         print("id=%s, username=%s, displayName=%s, createDate=%s" % (id, username, displayName, createDate))
-except e:
+except BaseException as e:
     print(str(e))
 finally:
     cursor.close()
